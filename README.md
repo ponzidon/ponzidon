@@ -1,100 +1,69 @@
 <div align="center">
 
-# BOB MARLEY
+# ponzidon
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=E10600&center=true&vCenter=true&multiline=true&width=720&height=70&lines=Security+Researcher;Exploit+Developer;PoC+%E2%86%92+Working+Exploit" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=20&duration=3200&pause=1000&color=C9D1D9&center=true&vCenter=true&width=640&height=40&lines=Security+Researcher;Exploit+Developer;PoC+%E2%86%92+Working+Exploit" alt="Typing SVG" />
+
+php until it breaks · source first · then the chain
+
+</div>
 
 <br>
 
-`php until it breaks` · `source first` · `then the chain`
+<div align="center">
+
+| working on | learning | focus |
+| :---: | :---: | :---: |
+| Python tooling | turning a PoC into a working exploit | Drupal · Magento · Laravel · WordPress |
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-## About Me
+### stack
 
-🔭 Working on Python tooling and web app source review
+<img src="https://skillicons.dev/icons?i=py,linux,bash,git,docker,aws,azure,gcp,cloudflare,mysql,mongodb,postgres&perline=12" alt="Tech stack" />
 
-🌱 Learning how a PoC becomes a working exploit
+<br>
 
-🎯 Drupal · Magento · Laravel · WordPress
-
-📫 Reach me on Telegram
+<sub>OVH · DigitalOcean · Vultr</sub>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-## Socials & Contact
+### off the keyboard
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/marleyybob123)
-[![Tools Archive](https://img.shields.io/badge/Tools_Archive-E10600?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BMARLEYTOOLS)
+Steam · Epic Games · EA
+
+<br>
+
+<sub>the best hackers are also the best gamers</sub>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-## Tech Stack
-
-<img src="https://skillicons.dev/icons?i=py,linux,bash,git,docker,aws,azure,gcp,cloudflare,mysql,mongodb,postgres&perline=6" alt="Tech stack" />
+<img src="https://github-readme-stats.vercel.app/api?username=ponzidon&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e&ring_color=30363d" alt="GitHub stats" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponzidon&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e" alt="Top languages" height="160" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/OVH-123F6D?style=for-the-badge&logo=ovh&logoColor=white" alt="OVH" />
-<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
-<img src="https://img.shields.io/badge/Vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white" alt="Vultr" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ponzidon&bg_color=0d1117&color=8b949e&line=c9d1d9&point=ffffff&area=true&hide_border=true&radius=8" alt="Contribution activity" />
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-## When I'm Not Coding
-
-<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
-<img src="https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games" />
-<img src="https://img.shields.io/badge/EA-FF4747?style=for-the-badge&logo=ea&logoColor=white" alt="EA" />
-
-<br><br>
-
-> "The best hackers are also the best gamers"
-
-</div>
-
----
-
-<div align="center">
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=ponzidon&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e10600&icon_color=e10600&text_color=c9d1d9&ring_color=e10600" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponzidon&layout=compact&hide_border=true&bg_color=0d1117&title_color=e10600&text_color=c9d1d9" alt="Top languages" height="165" />
-
-</div>
-
----
-
-<div align="center">
-
-## Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ponzidon&bg_color=0d1117&color=e10600&line=c9d1d9&point=e10600&area=true&hide_border=true" alt="Contribution activity" />
-
-</div>
-
----
-
-<div align="center">
-
-## I CAME | I SAW | I PWNED
+**I CAME · I SAW · I PWNED**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ponzidon/ponzidon/output/github-contribution-grid-snake-dark.svg" />
