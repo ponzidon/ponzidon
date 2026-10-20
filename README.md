@@ -8,17 +8,27 @@
 
 ---
 
-<div align="center">
-
 ### About
 
-<table>
-  <tr>
-    <td align="center" width="33%"><b>Working on</b><br>Python tooling</td>
-    <td align="center" width="33%"><b>Learning</b><br>PoC to a working exploit</td>
-    <td align="center" width="34%"><b>Focus</b><br>Drupal · Magento · Laravel · WordPress</td>
-  </tr>
-</table>
+I stay in the source until the bug is a chain.
+
+The work is PHP web apps. Drupal, Magento, WordPress, Laravel. Fingerprint the stack, read the code, then prove it in a lab. A version number is not a finding. If it does not reproduce, it is not done.
+
+Lately that has meant:
+
+- Python tooling around the loop: scanners, lab harnesses, the notes that survive the session
+- Research agents that take one step, test it, and write only what actually fired
+- Drupal core and contrib, Magento modules, WordPress plugins
+- Carrying a PoC the rest of the way to a working exploit
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" alt="Drupal" />
+<img src="https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white" alt="Magento" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
 
 </div>
 
@@ -84,17 +94,19 @@
 
 <div align="center">
 
-### Contribution activity
+### Contribution board
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ponzidon&bg_color=0d1117&color=ff3b3b&line=c9d1d9&point=ffffff&area=true&hide_border=true&radius=8" alt="Contribution activity" width="100%" />
+<img src="./assets/contributions.svg" alt="Contribution board" />
+
+<br>
+
+> Read the source until it breaks.
 
 </div>
 
 ---
 
 <div align="center">
-
-### I CAME | I SAW | I PWNED
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ponzidon/ponzidon/output/github-contribution-grid-snake-dark.svg" />
