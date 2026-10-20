@@ -10,16 +10,11 @@
 
 ### About
 
-I stay in the source until the bug is a chain.
+People use this box to explain themselves.
 
-The work is PHP web apps. Drupal, Magento, WordPress, Laravel. Fingerprint the stack, read the code, then prove it in a lab. A version number is not a finding. If it does not reproduce, it is not done.
+I use it to say I play PS5.
 
-Lately that has meant:
-
-- Python tooling around the loop: scanners, lab harnesses, the notes that survive the session
-- Research agents that take one step, test it, and write only what actually fired
-- Drupal core and contrib, Magento modules, WordPress plugins
-- Carrying a PoC the rest of the way to a working exploit
+The rest of the job does not get a paragraph. If you need the tour, the badges are the tour. If you need the story, you already have it, and it is not going on GitHub.
 
 <div align="center">
 
