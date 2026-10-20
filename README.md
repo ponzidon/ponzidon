@@ -10,20 +10,20 @@
 
 ### About
 
-Officially I play too much PS5.
+🧠 Learning cyber the long way, not collecting job titles.
 
-Unofficially I argue with PHP until it gives up. Drupal, Magento, WordPress, Laravel. Python does the parts I refuse to do by hand.
+🐍 Python is the part I'm actually getting better at. The rest of the path is still open.
 
-The good stories stay offline. The badges already said too much.
+🎮 When the learning loses, the PS5 wins.
+
+🤫 Public version ends there.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" alt="Drupal" />
-<img src="https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white" alt="Magento" />
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+<img src="https://img.shields.io/badge/Still_Learning-222222?style=for-the-badge" alt="Still learning" />
+<img src="https://img.shields.io/badge/Cyber-E10600?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cyber" />
+<img src="https://img.shields.io/badge/PlayStation_5-003791?style=for-the-badge&logo=playstation5&logoColor=white" alt="PlayStation 5" />
 
 </div>
 
