@@ -6,64 +6,95 @@
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-| working on | learning | focus |
-| :---: | :---: | :---: |
-| Python tooling | turning a PoC into a working exploit | Drupal · Magento · Laravel · WordPress |
+### About
+
+<table>
+  <tr>
+    <td align="center" width="33%"><b>Working on</b><br>Python tooling</td>
+    <td align="center" width="33%"><b>Learning</b><br>PoC to a working exploit</td>
+    <td align="center" width="34%"><b>Focus</b><br>Drupal · Magento · Laravel · WordPress</td>
+  </tr>
+</table>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-### stack
+### Tech stack
 
-<img src="https://skillicons.dev/icons?i=py,linux,bash,git,docker,aws,azure,gcp,cloudflare,mysql,mongodb,postgres&perline=12" alt="Tech stack" />
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
-<br><br>
+<br>
 
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+
+<br>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
 <img src="https://img.shields.io/badge/OVH-123F6D?style=for-the-badge&logo=ovh&logoColor=white" alt="OVH" />
 <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
 <img src="https://img.shields.io/badge/Vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white" alt="Vultr" />
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-### when I'm not working
+### When I'm not working
 
 <img src="https://img.shields.io/badge/PlayStation_5-003791?style=for-the-badge&logo=playstation5&logoColor=white" alt="PlayStation 5" />
 
-<br>
-
-<sub>off the clock, it's the PS5</sub>
-
 </div>
 
-<br>
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ponzidon&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ff3b3b&text_color=c9d1d9&ring_color=ff3b3b" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponzidon&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" alt="Top languages" height="165" />
+### GitHub stats
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ponzidon&bg_color=0d1117&color=ff3b3b&line=c9d1d9&point=ffffff&area=true&hide_border=true" alt="Contribution activity" />
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=ponzidon&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ff3b3b&text_color=c9d1d9&ring_color=ff3b3b" alt="GitHub stats" height="165" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponzidon&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" alt="Top languages" height="165" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-**I CAME · I SAW · I PWNED**
+### Contribution activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ponzidon&bg_color=0d1117&color=ff3b3b&line=c9d1d9&point=ffffff&area=true&hide_border=true&radius=8" alt="Contribution activity" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### I CAME | I SAW | I PWNED
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ponzidon/ponzidon/output/github-contribution-grid-snake-dark.svg" />
