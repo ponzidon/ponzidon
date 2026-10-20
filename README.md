@@ -10,11 +10,11 @@
 
 ### About
 
-People use this box to explain themselves.
+Officially I play too much PS5.
 
-I use it to say I play PS5.
+Unofficially I argue with PHP until it gives up. Drupal, Magento, WordPress, Laravel. Python does the parts I refuse to do by hand.
 
-The rest of the job does not get a paragraph. If you need the tour, the badges are the tour. If you need the story, you already have it, and it is not going on GitHub.
+The good stories stay offline. The badges already said too much.
 
 <div align="center">
 
